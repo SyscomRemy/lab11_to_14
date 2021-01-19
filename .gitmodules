@@ -1,0 +1,12 @@
+[submodule "lab14"]
+	path = lab14
+	url = https://github.com/SyscomRemy/lab14.git
+[submodule "lab13"]
+	path = lab13
+	url = https://github.com/SyscomRemy/lab13.git
+[submodule "lab12"]
+	path = lab12
+	url = https://github.com/SyscomRemy/lab12.git
+[submodule "lab11"]
+	path = lab11
+	url = https://github.com/SyscomRemy/lab11.git
